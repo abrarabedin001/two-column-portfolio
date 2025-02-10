@@ -1,130 +1,108 @@
 {
-    "general": {
-        "name": "Name Surname",
-        "headline": "Short headline about yourself",
-        "about": [
-            "Hey there! 👋",
-            "This should be a first short paragraph about yourself. Tell us something about yourself, your education or your career.",
-            "And why not adding a second paragraph? Then you can tell us more about your hobbies and your life. Some people will read it and be happy to get to know you a little better."
-        ],
-        "socials": {
-            "email": "example@mail.com",
-            "linkedin": "https://www.linkedin.com/",
-            "github": "https://github.com/"
-        }
+  "general": {
+    "name": "Ahmad Abrar",
+    "headline": "Full Stack Developer",
+    "about": [
+      "Hey there! 👋",
+      "I am a Full Stack Web Developer at Ascend AI, where I design and build applications using modern technologies. ",
+      "With a strong foundation in Computer Science, I have hands-on experience with React.js, Express.js, and Git, along with proficiency in JavaScript, Python, and TypeScript. ",
+      "At Ascend AI, I have worked on developing SaaS products, including automated lead generation tools, driving significant user engagement. Passionate about innovation and collaboration, I thrive in Agile environments and am committed to creating impactful digital experiences."
+    ],
+    "socials": {
+      "email": "abrarabedin001@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/ahmad-abrar-5037a526a/",
+      "github": "https://github.com/abrarabedin001"
+    }
+  },
+  "experiences": [
+    {
+      "title": "Full Stack Software Engineer",
+      "company": "Ascend AI",
+      "href": "",
+      "startDate": "10/2023",
+      "endDate": "CURRENT",
+      "description": "Developed a variety of applications including web, mobile, and desktop, with a focus on integrating AI technologies. Collaborated with a team of developers to design, and develop startup level sass product, like https://clevercore.ai. Developed automated lead generation for Instagram with a total of 45 thousand successful DMs sent and over 500 active users. Like: https:\/\/www.instadm.ai\/. Implemented Stripe gateway",
+      "logo": "/logos/ascend-ai-logo.png",
+      "skills": [
+        "Next.js",
+        "Electron.js",
+        "Puppeteer",
+        "Express.js",
+        "Stripe APi",
+        "React.js",
+        "TypeScript",
+        "Python",
+        "Tailwind CSS",
+        "PostgreSQL",
+        "Firebase",
+        "Prisma",
+        "CI/CD",
+        "End-to-End Testing"
+      ]
     },
-    "experiences": [
-        {
-            "title": "Position Title",
-            "company": "Company Name",
-            "href": "",
-            "startDate": "10/2023",
-            "endDate": "CURRENT",
-            "description": "This is a short description of your role.",
-            "logo": "/logos/vercel-white.png",
-            "skills": ["Skill 1", "Skill 2", "Skill 3"]
-        },
-        {
-            "title": "Position Title",
-            "company": "Company Name",
-            "href": "",
-            "startDate": "01/2023",
-            "endDate": "09/2023",
-            "description": "This is a short description of your role.",
-            "logo": "/logos/vercel-white.png",
-            "skills": ["Skill 1", "Skill 2"]
-        },
-        {
-            "title": "Position Title",
-            "company": "Company Name",
-            "href": "",
-            "startDate": "01/2022",
-            "endDate": "12/2022",
-            "description": "This is a short description of your role.",
-            "logo": "/logos/vercel-white.png",
-            "skills": ["Skill 1"]
-        },
-        {
-            "title": "Position Title",
-            "company": "Company Name",
-            "href": "",
-            "startDate": "01/2021",
-            "endDate": "12/2021",
-            "description": "This is a short description of your role.",
-            "logo": "/logos/vercel-white.png",
-            "skills": ["Skill 1", "Skill 2", "Skill 3"]
-        }
-    ],
-    "education": [
-        {
-            "subject": "University Subject",
-            "degree": "Master of Science",
-            "university": "University Name", 
-            "href": "",
-            "startDate": "2022", 
-            "endDate": "NOW", 
-            "description": "Short description of your degree."
-        },
-        {
-            "subject": "University Subject",
-            "degree": "Bachelor of Science",
-            "university": "University Name", 
-            "href": "",
-            "startDate": "2017", 
-            "endDate": "2020", 
-            "description": "Short description of your degree."
-        }
-    ],
-    "volunteering": [
-        {
-            "position": "Position Name",
-            "event": "Event Name",
-            "organisation": "Organisation Name",
-            "href": "",
-            "startDate": "2022",
-            "endDate": "NOW",
-            "description": "Short description of your role at the event."
-        },
-        {
-            "position": "Position Name",
-            "event": "Event Name",
-            "organisation": "Organisation Name",
-            "href": "",
-            "startDate": "2022",
-            "endDate": "NOW",
-            "description": "Short description of your role at the event."
-        },
-        {
-            "position": "Position Name",
-            "event": "Event Name",
-            "organisation": "Organisation Name",
-            "href": "",
-            "startDate": "2022",
-            "endDate": "NOW",
-            "description": "Short description of your role at the event."
-        }
-    ],
-    "projects": [
-        {
-            "name": "two-column-portfolio",
-            "framework": "next.js",
-            "description": "A simple two-column portfolio template that is easy and quick to customize for your own purposes. Mobile friendly.",
-            "href": "https://github.com/karlgrossmann/two-column-portfolio",
-            "stars": "0"
-        },
-       {
-            "name": "example-project",
-            "framework": "javascript",
-            "description": "Short description of your project.",
-            "href": "",
-            "stars": "2,712"
-       },
-       {
-        "name": "example-project-2",
-        "framework": "flutter",
-        "description": "Short description of your project.",
-        "href": "",
-        "stars": "1,999"
-        } 
-    ]
+    {
+      "title": "Software Engineer",
+      "company": "Reinforz AI",
+      "href": "",
+      "startDate": "06/2023",
+      "endDate": "10/2023",
+      "description": "Worked on core functionalities such as the text editor, AI integration, and infinite scrolling. Seamlessly integrated backend and frontend systems utilizing RESTful APIs, adhering to the industry-standard MVC architecture to promote efficient data handling and long-term system maintainability.",
+      "logo": "/logos/reinforz.svg",
+      "skills": [
+        "React.js",
+        "Express.js",
+        "Tailwind CSS",
+        "Prisma"
+      ]
+    },
+    {
+      "title": "Intern",
+      "company": "Reinforz Ai",
+      "href": "",
+      "startDate": "03/2023",
+      "endDate": "06/2023",
+      "description": "Developed and improved user interface elements, enhancing user engagement and overall experience, applying advanced UI/UX design principles.",
+      "logo": "/logos/reinforz.svg",
+      "skills": [
+        "React.js",
+        "Express.js",
+        "Tailwind CSS"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "subject": "Computer Science and Engineering",
+      "degree": "Computer Science and Engineering",
+      "university": "BRAC University",
+      "href": "",
+      "startDate": "2020",
+      "endDate": "2024",
+      "description": "Short description of your degree."
+    }
+  ],
+  "volunteering": [],
+  "projects": [
+    {
+      "name": "Task Flow",
+      "framework": "Next.js",
+      "description": "A simple two-column portfolio template that is easy and quick to customize for your own purposes. Mobile friendly.",
+      "href": "https://github.com/karlgrossmann/two-column-portfolio",
+      "stars": "0"
+    },
+    {
+      "name": "Tutor For Hire Frontend",
+      "framework": "React.js",
+      "description": "Front end for tutor for hire.",
+      "href": "https://github.com/abrarabedin001/tutorForHire-frontend",
+      "stars": "0"
+    },
+    {
+      "name": "Tutor For Hire Backend",
+      "framework": "Expres.js",
+      "description": "Backend for tutor for hire.",
+      "href": "https://github.com/abrarabedin001/tutorForHire_backend",
+      "stars": "0"
+    }
+  ]
 }
